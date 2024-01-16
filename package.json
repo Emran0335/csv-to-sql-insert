@@ -9,5 +9,8 @@
     "email": "dave@davegray.codes",
     "url": "https://www.davegray.codes/"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
 }
