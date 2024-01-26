@@ -15,11 +15,8 @@
     "url": "https://www.davegray.codes/"
   },
   "license": "MIT",
-<<<<<<< HEAD
-  "dependencies": {
-    "faker": "^6.6.6"
-=======
-  "devDependencies": {
+    "devDependencies": {
+    "faker": "^6.6.6",
     "@types/node": "^20.10.5",
     "@typescript-eslint/eslint-plugin": "^6.15.0",
     "eslint": "^8.56.0",
@@ -41,6 +38,5 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
->>>>>>> 56f571dbe0e268f53ae7fdfe03244f93a91f5f20
   }
 }
